@@ -11,7 +11,12 @@ Este é um script Python para interpretar pacotes de rede a partir de dados hexa
 
 ## Uso
 
-Para executar o script, basta inserir os dados hexadecimais quando solicitado.
+1 - No terminal, digite:
+```
+python3 hexaInterprer.py
+```
+
+2 - Insira os dados hexadecimais quando solicitado.
 
 Exemplo de entrada:
 
